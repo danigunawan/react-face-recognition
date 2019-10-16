@@ -6,3 +6,4 @@ https://github.com//react-face-recognition
 
 Web : https://tanlull.github.io/react-face-recognition/
 
+![qr Code](qr.png)
